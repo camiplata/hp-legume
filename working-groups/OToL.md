@@ -1,5 +1,5 @@
 ---
-layout: heroImage
+layout: page
 lang-ref: OToL
 title: OToL Phylogeny  Working Group
 background: /assets/images/circle_phylo.jpg

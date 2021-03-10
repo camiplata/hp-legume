@@ -1,5 +1,5 @@
 ---
-layout: heroImage
+layout: page
 title: Legume Occurrences Working Group
 lang-ref: occurrences
 background: /assets/images/map.png

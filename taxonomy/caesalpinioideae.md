@@ -1,14 +1,18 @@
 ---
-layout: heroImage
 lang-ref: caesalpinioideae
 lang: en
 title: Caesalpinioideae
-background: /assets/images/Dichrostachys_cinerea_3952595.jpeg
+background: /assets/images/dichrostachys_cinerea_3044744226.jpg
 imageLicense: |
-  *Dichrostachys cinerea* (L.) Wight & Arn. Photo by Bruno Durand via [iNaturalist](https://www.gbif.org/occurrence/1898844739)
+  [*Dichrostachys cinerea* (L.) Wight & Arn.](https://www.gbif.org/occurrence/3044744226) observed in South Africa by Jeff Morris ((CC BY-NC 4.0))[http://creativecommons.org/licenses/by-nc/4.0/]
 description: Information about subfamily Caesalpinioideae 
 height: 70vh
 toc: true
+layout: documentation
+sideNavigation: sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 ---
 
 ## Introduction

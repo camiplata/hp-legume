@@ -1,5 +1,5 @@
 ---
-layout: heroImage
+layout: page
 lang-ref: taxonomy
 lang: en
 title: Legume Taxonomy Working Group

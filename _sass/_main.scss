@@ -1,3 +1,22 @@
 @import "theme/_main";
 
 // You can add additional styling here
+
+// add custom styling for the home page hero
+section.homepage {
+  .feature-content {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    // border: 8px solid #676767;
+    box-shadow: 0 0px 0px 8px #000000aa;
+  }
+}
+
+// .boxHero {
+//   .feature-content {
+//     box-shadow: 0 0px 0px 6px #000000aa;
+//     bottom: 24px;
+//   }
+// }

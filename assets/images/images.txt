@@ -1,0 +1,8 @@
+/assets/images/dichrostachys_cinerea_3044744226.jpg
+[*Dichrostachys cinerea* (L.) Wight & Arn.](https://www.gbif.org/occurrence/3044744226) observed in South Africa by Jeff Morris ((CC BY-NC 4.0))[http://creativecommons.org/licenses/by-nc/4.0/]
+
+/assets/images/bauhinia_petersiana_1840122561.jpg
+[*Bauhinia petersiana* subsp. macrantha (Oliv.) Brummitt & J.H.Ross](https://www.gbif.org/occurrence/1840122561) collected in Angola by Meise Botanic Garden ((CC BY-SA 4.0))[http://creativecommons.org/licenses/by-sa/4.0/]
+
+/assets/images/ulex_europaeus-3017993830.jpg
+[*Ulex europaeus* L.](https://www.gbif.org/occurrence/3017993830) observed in France by Valentin Hamon ((CC BY-SA 4.0))[http://creativecommons.org/licenses/by-sa/4.0/]

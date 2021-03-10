@@ -1,5 +1,5 @@
 ---
-layout: heroImage
+layout: page
 lang-ref: phylogenetics
 title: Legume Phylogenomics & Phylogenetics Working Group
 background: /assets/images/phylos.jpg

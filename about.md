@@ -4,9 +4,9 @@ lang: en
 lang-ref: about
 title: About Legumes 
 description: The Family and the Community
-background: /assets/images/Vachellia_inflor_inaturalist12436165.jpg
+background: /assets/images/acacia_ulicifolia_2397499596.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  [*Acacia ulicifolia* (Salisb.) Court](https://www.gbif.org/occurrence/2397499596) observed in Australia by judy_rob_peters (licensed under http://creativecommons.org/licenses/by-nc-nd/4.0/)
 height: 70vh
 ---
 

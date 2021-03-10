@@ -1,13 +1,17 @@
 ---
-layout: heroImage
 lang-ref: cercidoideae
 title: Cercidoideae
-background: /assets/images/Bauhinia_petersiana_15341896.jpg
+background: /assets/images/bauhinia_petersiana_1840122561.jpg
 imageLicense: |
-  *Bauhinia petersiana ssp. macrantha* (Oliv.) Brummitt & J.H.Ross. Photo by Ryan van Huyssteen via [iNaturalist](https://www.gbif.org/occurrence/1838329045)
+  [*Bauhinia petersiana* subsp. macrantha (Oliv.) Brummitt & J.H.Ross](https://www.gbif.org/occurrence/1840122561) collected in Angola by Meise Botanic Garden ((CC BY-SA 4.0))[http://creativecommons.org/licenses/by-sa/4.0/]
 description: Information about subfamily Cercidoideae 
 height: 70vh
 toc: true
+layout: documentation
+sideNavigation: sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 ---
 
 ## Introduction

@@ -1,11 +1,17 @@
 ---
 lang-ref: home
 layout: home
-title: Legume Data Portal
-description: Discover data about the Legume family
-background: /assets/images/Enterolobium_cyclocarpum_42323408.jpeg
+preTitle: Legume.org
+title: Discover data about the Legume family
+xdescription: Discover data about the Legume family
+background: /assets/images/acacia_baileyana_2823077709.jpg
+overlayColor: "#ffffff11"
+klass: homepage
+hasBlackText: true
 imageLicense: |
-  *Enterolobium cyclocarpum* (Jacq.) Griseb. Photo by ric van den Berghe via [iNaturalist](https://www.gbif.org/occurrence/2609325904)
+  [*Acacia baileyana* F.Muell.](https://www.gbif.org/occurrence/2823077709) observed in Australia by wyeth53 (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+ximageLicense: |
+  Holotype of *Trifolium willdenovii* var. ahartii. Published by [Kenneth S. Norris Center for Natural History](https://www.gbif.org/occurrence/2459171413)
 cta:
   - text: Start exploring
     href: /data
@@ -13,6 +19,17 @@ cta:
   - text: About
     href: /about
 permalink: /
+xcomposition: 
+- type: heroImage
+  inlineData: 
+  - klass: homepage-hero
+    title: Legume.org
+    description: Discover data about the Legume family
+    background: /assets/images/holotype-trifolium.jpg
+    overlayColor: "#ffffffaa"
+    hasBlackText: true
+    imageLicense: |
+      Holotype of *Trifolium willdenovii* var. ahartii. Published by [Kenneth S. Norris Center for Natural History](https://www.gbif.org/occurrence/2459171413)
 ---
 
 Edit `/home.md` to change the text.

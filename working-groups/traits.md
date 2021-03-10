@@ -1,5 +1,5 @@
 ---
-layout: heroImage
+layout: page
 lang-ref: traits
 title: Legume Traits Working Group
 background: /assets/images/traits.png

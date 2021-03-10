@@ -1,13 +1,18 @@
 ---
-layout: heroImage
 lang-ref: species-list
 lang: en
 title: Species List and Synonyms
-background: /assets/images/Lupinus_polyphyllus_3385082.jpg
+background: /assets/images/ulex_europaeus-3017993830.jpg
 imageLicense: |
-  *Lupinus polyphyllus* Lindl. Photo by Henk van der Sluis via [GBIF](https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fobservation.org%2Fphotos%2F3385082.jpg)
+  [*Ulex europaeus* L.](https://www.gbif.org/occurrence/3017993830) observed in France by Valentin Hamon ((CC BY-SA 4.0))[http://creativecommons.org/licenses/by-sa/4.0/]
 description: List of all species and synonyms within the family
+toc: true
 height: 70vh
+layout: documentation
+sideNavigation: sidenav.taxonomy
+composition:
+  - type: postHeader
+  - type: pageMarkdown
 ---
 
 ## Taxonomy
