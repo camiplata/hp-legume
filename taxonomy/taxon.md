@@ -13,6 +13,9 @@ head: |
 
 <script src="https://cdn.jsdelivr.net/gh/CatalogueOfLife/portal-components@0.7.8/umd/col-browser.min.js" ></script>
 
+## Acknowledgements
+TODO: give credit somewhere. Here for example.
+
 <div id="taxon"></div>
 <div id="gbifTaxonLinks"></div>
 
