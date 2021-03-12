@@ -74,6 +74,8 @@ algae:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+include:
+  - _redirects
 exclude:
   - .LICENSE
   - .netlify.toml
