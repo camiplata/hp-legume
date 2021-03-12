@@ -30,7 +30,7 @@ class Taxon extends React.Component {
           pathToSearch: '/taxonomy/search',
           pathToTaxon: '/taxonomy/taxon/',
           pathToDataset: '/sourcedatasets/',
-          pageTitleTemplate: 'COL | __taxon__'
+          pageTitleTemplate: 'Legume | __taxon__'
         }
       );
     }
