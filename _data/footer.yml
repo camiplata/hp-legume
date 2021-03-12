@@ -3,6 +3,10 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
+  - name: Catalogue of Life
+    description: |
+      Catalogue of Life ChecklistBank should get proper and visible credit. Here for example. And on the individual pages as well perhaps?
+
   - name: Partners
     links:
     - text: Name of project partner 1
