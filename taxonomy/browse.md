@@ -1,21 +1,19 @@
 ---
 title: Browse
+permalink: /taxonomy/browse
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Haeckel_Caulerpa_paspaloides.JPG/1024px-Haeckel_Caulerpa_paspaloides.JPG
-imageLicense: Kunstformen der Natur (1904) by Ernst Haeckel via [Wikimedia](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
-overlayColor: "#00000055"
-parallax: true
-height: 50vh
-layout: post
+layout: documentation
+sideNavigation: sidenav.taxonomy
+klass: fullwidth
 head: |
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/CatalogueOfLife/portal-components@0.4.6/umd/main.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/CatalogueOfLife/portal-components@0.7.8/umd/main.css">
 ---
 
 <!--react and gbif component-->
 <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
 
-<script src="https://cdn.jsdelivr.net/gh/CatalogueOfLife/portal-components@0.4.6/umd/col-browser.min.js" ></script>
+<script src="https://cdn.jsdelivr.net/gh/CatalogueOfLife/portal-components@0.7.8/umd/col-browser.min.js" ></script>
 
 <div id="tree"></div>
 
@@ -29,7 +27,9 @@ class Tree extends React.Component {
       return e(
         ColBrowser.Tree,
         { catalogueKey: 2232,
-          pathToTaxon: '/taxon/',
+          pathToTree: '/taxonomy/browse',
+          pathToSearch: '/taxonomy/search',
+          pathToTaxon: '/taxonomy/taxon/',
           defaultTaxonKey: 'x3YN'
         }
       );

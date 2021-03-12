@@ -2,6 +2,10 @@ taxonomy:
 - content:
   - title: Species List and Synonyms
     path: /taxonomy/species-list
+  - title: Browse tree
+    path: /taxonomy/browse
+  - title: Advanced search
+    path: /taxonomy/search
 - grouptitle: Subfamilies
   content:
   - title: Cercidoideae

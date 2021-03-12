@@ -14,9 +14,8 @@ section.homepage {
   }
 }
 
-// .boxHero {
-//   .feature-content {
-//     box-shadow: 0 0px 0px 6px #000000aa;
-//     bottom: 24px;
-//   }
-// }
+.fullwidth {
+  .article {
+    max-width: 100%;
+  }
+}
